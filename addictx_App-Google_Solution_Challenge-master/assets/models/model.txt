@@ -1,0 +1,14 @@
+bridge
+camel
+chair
+chaturanga_dandasana
+cobra
+cow
+crescent_lunge
+half_moon
+plank
+tree
+triangle
+warrior_I
+warrior_II
+warrior_III

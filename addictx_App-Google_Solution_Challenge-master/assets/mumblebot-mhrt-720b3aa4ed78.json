@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "mumblebot-mhrt",
+  "private_key_id": "720b3aa4ed7861af1c256c701b69c22e96db0203",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCtM5dw95ekpEUO\n4nV1uEbsF3ohtcQ3sMCwjSg/ni/oafVakLUHST1Yrg3McORcb1nXKd5pVMDAHLCO\n3fUWJzvM4y5/JQcYrX52sqJEL2h1PNEjSkgPs/W573RqlgE6SSv4sNI1VmF7dJut\nW+Qd7EbrFBUfDXlpNcgkIbBiX4UKpzJ4pwuPGQ/IWY3fGmTYcMLMQAifVIi6IndB\nt0h9aPs0LdKFT7GijVVc5nswWADbDJRYZBvi3ysQixUQyQ2FhioipfRq0aFCj0/F\nqcpXtxQAcfla8ikziyrk0stGtw8b2ZoAB0VSWGutG8tYTMS3boF9aiGww9PSIM16\nVrs7TQFnAgMBAAECggEABD5Trd3du5fsD+L2fm2HDKO/8fF9HuGCvGXzoCi6WGxi\n1Cw1cznqedtnKnodmNzVi6hSnawI6OwLBgUOyyh865Z+qM4kcAitei+tkBQamry5\ntwP2jgPvt6ApRFnr1Ry+f2JS/sw1/otV1m0o7UlrrLjE57TcePprWTnwvghEadqy\ngobIcAMZ6FkeGLh4cwkKcir1N2bppipIKKQiD1qbyb/do1Y30bAMxRlJL4gLzAXZ\n6N/soAfyka6Mww0zY+pb7m67bEYAS8f5/6bxtMJvUqqllss3MY1Kmfu3JZCH3OOe\n/6Zhu+Z1A/QM6/JeA5p94JCf/GkzgHxI/+WcswTTQQKBgQDVXK/+t+k5Dzjum2DE\nrjy2YaSd8FydjGssnw1/jT1bJ4Kbgy4Rd9i+MYo/llEtc9tSnXIhaeIuZF6etcpB\nHt7s2lIppMWceMmczHCNIpqbV+kMTnXOI6JknHXx8wz/rWhhMpoDHunWjchZuqpj\nx+SR/wFYV3HCwpDACGhUxMg3oQKBgQDP0FiTwWry7LoxmU36zYvfsCmtlsROfo+K\nXmDdRKu8Q/6yfDqGnnnznkBJSgGeTNXboQlxJxtKUtFan8ViaT6DyUIC8nY315mE\nekTfuCUDuRFcourmSUglQyg27IIG6hZBXmYuptUqgECLSQjLp98oIy92HjGAqY7b\n8BtEFXH8BwKBgQCLm0RFRQ1DmqRD7EMbLm7nX2iZN2dCZ1jRL5ljdoVJGccp/mGs\naGDXwg6VoMOpG//MRN0i4+dtN5t5+bVHeu2eyROtz/TFd3tkL5kNoDDNqG4C8Wu/\n4C0n7AB4ufItcce0oamIlTeofck0fSF0fJ0gslys8zqqlyijnly16rSfQQKBgQCY\n9OPNVSaPyLe++/SObi3Opc33a6nvkG28TX0EP6AbwPw9iPxWy1w9eLQefW81gZ5C\nuoPFmiAXE1/uUPyqU4Zk34RLwQRMU8811/zLobD0zYm+4lb8yuFkM8rsqiWGS1O4\nJ3AUVE0/rAhVvJrRsyyoUUWErfKHncV9knuvIA22jwKBgQCeO4l6OcA43QS3dTEk\nvxjohCTxen3ddyPwKfWY5dHI6MzKJ1eHhtSdREv5YM2BRbOUcAh7HCG4A2HBzKUn\nBQh9lu+wazaoF0ib1sWIn7h5q3JcoNhBHnyjFpAF6n5eTxmuQXb44Hn7y1mGwoik\n8kbW1Y8DZuVSgiArBXLRIGjYwQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "dexichatbot@mumblebot-mhrt.iam.gserviceaccount.com",
+  "client_id": "115523638193942617445",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dexichatbot%40mumblebot-mhrt.iam.gserviceaccount.com"
+}
