@@ -89,7 +89,7 @@
 ##### 5) Run this Project on your android emulator or connect real device to check this out.
 - - -
 # Images
-![picture alt](  addictx_App-Google_Solution_Challenge-master/images/0.png "Title is optional")
+![picture alt]( https://github.com/RuchikaSuryawanshi7/AddictX-App_Google_Solution_Challenge_2021/blob/master/addictx_App-Google_Solution_Challenge-master/images/1.png "Title is optional")
 - - -
 ![picture alt](images/1.png "Title is optional")
 - - -
