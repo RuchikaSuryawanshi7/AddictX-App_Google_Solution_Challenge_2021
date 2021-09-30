@@ -7,8 +7,9 @@
 ##### Duration : 2021.03.04 ~ 2021.07.01 ⏰
 - - - -
 ### Team member 💁🏻‍♀️💁🏻
-#### 1. Designer : Jatin Gupta
-#### 2. Developer : Deepak Lohmod, Abhishek Bapu Ove, Ruchika Suryawanshi
+#### 1. Developer : Ruchika Suryawanshi, Deepak Lohmod, Abhishek Bapu Ove
+#### 2. Designer : Jatin Gupta
+
 - - - -
 ### Technology of Use 💻
 ####  Tools:-
