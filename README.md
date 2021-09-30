@@ -91,18 +91,18 @@
 # Images
 ![picture alt]( https://github.com/RuchikaSuryawanshi7/AddictX-App_Google_Solution_Challenge_2021/blob/master/addictx_App-Google_Solution_Challenge-master/images/1.png "Title is optional")
 - - -
-![picture alt](images/1.png "Title is optional")
+![picture alt](https://github.com/RuchikaSuryawanshi7/AddictX-App_Google_Solution_Challenge_2021/blob/master/addictx_App-Google_Solution_Challenge-master/images/2.png "Title is optional")
 - - -
-![picture alt](images/2.png "Title is optional")
+![picture alt](https://github.com/RuchikaSuryawanshi7/AddictX-App_Google_Solution_Challenge_2021/blob/master/addictx_App-Google_Solution_Challenge-master/images/3.png "Title is optional")
 - - -
-![picture alt](images/3.png "Title is optional")
+![picture alt](https://github.com/RuchikaSuryawanshi7/AddictX-App_Google_Solution_Challenge_2021/blob/master/addictx_App-Google_Solution_Challenge-master/images/4.png "Title is optional")
 - - -
-![picture alt](images/4.png "Title is optional")
+![picture alt](https://github.com/RuchikaSuryawanshi7/AddictX-App_Google_Solution_Challenge_2021/blob/master/addictx_App-Google_Solution_Challenge-master/images/5.png")
 - - -
-![picture alt](images/5.png "Title is optional")
+![picture alt](https://github.com/RuchikaSuryawanshi7/AddictX-App_Google_Solution_Challenge_2021/blob/master/addictx_App-Google_Solution_Challenge-master/images/6.png")
 - - -
-![picture alt](images/6.png "Title is optional")
+![picture alt](https://github.com/RuchikaSuryawanshi7/AddictX-App_Google_Solution_Challenge_2021/blob/master/addictx_App-Google_Solution_Challenge-master/images/7.png)
 - - -
-![picture alt](images/7.png "Title is optional")
+![picture alt](https://github.com/RuchikaSuryawanshi7/AddictX-App_Google_Solution_Challenge_2021/blob/master/addictx_App-Google_Solution_Challenge-master/images/8.png)
 - - -
-![picture alt](images/8.png "Title is optional")
+
