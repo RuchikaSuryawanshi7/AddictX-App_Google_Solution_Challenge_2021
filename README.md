@@ -1,5 +1,5 @@
 
-# [AddictX APP available on PlayStore](https://play.google.com/store/apps/details?id=com.exordium.addictx "Link to App") :iphone:
+# [AddictX App available on PlayStore](https://play.google.com/store/apps/details?id=com.exordium.addictx "Link to App") :iphone:
 
 ## Addiction has become a crital issue in today’s world, No matter which age group you are. Whatever the case Addiction involves cravings and loss of control, the substance use or activity continuing even if it causes harm, this includes problems with Studies, Jobs, Money or your health. To contribute something in this bigger issue , We are Introduncing “AddictX”  An online addiction recovery App for people who want get rid from variety of addictions. 
 - - - -
